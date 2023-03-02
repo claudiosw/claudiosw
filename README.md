@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning AWS and scalable architecture<br>⌨️ I write about good programming practices and architecture on [Linkedin](https://linkedin.com/in/claudiosw)<br>⛸️ I enjoy ice skating, roller skating, swimming, and board games
+💻 I’m currently working on a side project to BetterMatchJobs and as a Technical Screener at Andela<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning AWS and scalable architecture<br>⌨️ I write about good programming practices and architecture on [Linkedin](https://linkedin.com/in/claudiosw)<br>⛸️ I enjoy ice skating, roller skating, swimming, and board games
 
 
 ## 🌐 Socials:
